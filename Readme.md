@@ -1,6 +1,6 @@
-# 👋 Welcome to IchsanCh's Second GitHub Account
+# 👋 Welcome to SanForSch GitHub Account
 
-Hi there! This is the **second GitHub account** of Ichsan Ch.
+Hi there! This is the **second GitHub account** of IchsanCh.
 
 I use this account for:
 - Experiments 🧪
